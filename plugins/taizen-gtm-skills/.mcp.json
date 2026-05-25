@@ -3,10 +3,10 @@
   "mcpServers": {
     "taizen": {
       "type": "http",
-      "url": "https://mcp.usetaizen.com/mcp",
-      "description": "Taizen MCP server for scheduling recurring AI agents and automating GTM workflows. Create an account at https://usetaizen.com to get started.",
+      "url": "https://us.mcp.usetaizen.com/mcp",
+      "description": "Taizen MCP — connect once instead of 15+ individual MCP connectors. Indexes your Gong calls, CRM, documents, and more so every teammate can query all sources. Also schedules recurring AI agents. EU region: https://eu.mcp.usetaizen.com/mcp. Create an account at https://usetaizen.com to get started.",
       "auth": "oauth",
-      "auth_note": "Connect to Taizen and authenticate via OAuth with your Taizen account"
+      "auth_note": "Connect to Taizen and authenticate via OAuth with your existing Taizen account"
     },
     "salesforce": {
       "type": "http",
